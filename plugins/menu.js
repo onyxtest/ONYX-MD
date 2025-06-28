@@ -70,6 +70,7 @@ cmd(
     ▫️.alive
     ▫️.menu
     ▫️.system
+    ▫️.ping
     ▫️.owner
 *|🔃DOWNLOAD COMMANDS🔃|*
     ▫️.song <text>
@@ -93,6 +94,11 @@ cmd(
     ▫️.update
     ▫️.block
     ▫️.owner
+    ▫️.hack
+    ▫️.antispam
+    ▫️.broadcast
+    ▫️.clearchat
+    ▫️.left
 *|🔄CONVERT COMMANDS🔄|*
     ▫️.sticker <reply img>
     ▫️.toimg <reply sticker>
