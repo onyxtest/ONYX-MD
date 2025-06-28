@@ -29,7 +29,7 @@
 **[MOVIE 🎞](https://api.skymansion.site/movies-dl/)**
 
 ---
-### OTHER DEPLOY METHOD:
+### DEPLOY METHOD 01:
 **[LUNES HOST 👾](https://betadash.lunes.host/login)**
 
 
